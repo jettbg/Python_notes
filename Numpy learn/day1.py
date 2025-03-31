@@ -9,6 +9,7 @@ print(arr1)
 
 #嵌套序列能够转换为多维数组
 k=[[12,32,11],[44,34,65]]
+print(k)
 arr2=np.array(k)
 print(arr2)
 
